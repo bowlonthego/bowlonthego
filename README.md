@@ -17,7 +17,7 @@
 <script src="https://unpkg.com/feather-icons"></script>
 
 <!-- My style -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     
@@ -47,6 +47,6 @@
   </script>
 
   <!-- my javascript-->
-  <script src="js/script.js"></script>
+  <script src="script.js"></script>
 </body>
 </html>
